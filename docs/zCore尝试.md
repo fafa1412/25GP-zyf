@@ -110,7 +110,7 @@
   copy zcore failed: No such file or directory (os error 2)
   copy zcore-mangled.sym failed: No such file or directory (os error 2)
   ```
-  错误（找到相关代码，还未解决）
+  错误（找到相关代码，还未解决）————clang下载版本错误，重新来
   
 - 内核异步函数分类有疑问（和用户态一样吗）
   
